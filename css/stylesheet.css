@@ -1,0 +1,18 @@
+body{
+    font-family: 'Heebo', sans-serif;
+}
+.name{
+    color: rgb(118, 179, 234);
+    font-weight: 900;
+}
+p{
+    font-weight: 500;
+    color: rgb(109, 191, 210);
+}
+a{
+    text-decoration: none;
+    color: rgb(30, 192, 130);
+}
+a:hover{
+    color: rgb(84, 37, 77);
+}
