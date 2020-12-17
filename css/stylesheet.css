@@ -2,7 +2,7 @@ body{
     font-family: 'Heebo', sans-serif;
 }
 header{
-    height: 100%;
+    height: auto;
 }
 .name{
     color: rgb(118, 179, 234);
