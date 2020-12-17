@@ -1,6 +1,9 @@
 body{
     font-family: 'Heebo', sans-serif;
 }
+header{
+    height: 100%;
+}
 .name{
     color: rgb(118, 179, 234);
     font-weight: 900;
