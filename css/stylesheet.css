@@ -1,12 +1,8 @@
 html, body {
-    max-width: 100%;
     overflow-x: hidden;
-  }
+}
 body{
     font-family: 'Heebo', sans-serif;
-}
-header{
-    height: auto;
 }
 .name{
     color: rgb(118, 179, 234);
@@ -14,6 +10,7 @@ header{
 }
 p{
     font-weight: 500;
+    font-size: 16pt;
     color: rgb(109, 191, 210);
 }
 a{
@@ -22,4 +19,16 @@ a{
 }
 a:hover{
     color: rgb(84, 37, 77);
+}
+.table th, .table td{
+    border-top:none !important;
+}
+.stripe1{
+    background-color: rgb(240, 255, 144);
+}
+.stripe2{
+    background-color: rgb(199, 244, 164);
+}
+.stripe3{
+    background-color: rgb(142, 228, 195);
 }
